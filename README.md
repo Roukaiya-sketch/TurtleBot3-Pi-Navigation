@@ -1,6 +1,6 @@
 # TurtleBot3-Pi-Navigation
 
-voici le fichier noeud goto py pour la question 5
+Le repertoire contient le fichier goto.py pour la question 5
 
 Sur les lignes suivantes, on modifie la position de x et y. Ce chiffre fait référence à la distance que le turtlebot va bouge
 
