@@ -11,5 +11,5 @@ quaternion = {'r1' : 0.000, 'r2' : 0.000, 'r3' : 0.000, 'r4' : 1.000}
 ```
 
 ## Résulta
-Le turtlebot va bouge apresw là les chiffres de x et y
+Le turtlebot va bouge avec les chiffres de x et y
 
