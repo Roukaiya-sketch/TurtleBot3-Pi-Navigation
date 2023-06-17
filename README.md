@@ -6,7 +6,7 @@ Sur les lignes suivantes, on modifie la position de x et y. Ce chiffre fait réf
 
 ```sh
 # Customize the following values so they are appropriate for your location
-position = {'x':-1.0989, 'y' : 1.1745}
+position = {'x':-1.0989, 'y': 1.1745}
 quaternion = {'r1' : 0.000, 'r2' : 0.000, 'r3' : 0.000, 'r4' : 1.000}
 ```
 
@@ -14,7 +14,7 @@ quaternion = {'r1' : 0.000, 'r2' : 0.000, 'r3' : 0.000, 'r4' : 1.000}
 Le turtlebot va bouge avec les chiffres de x et y
 
 
-## Etape d'exécution des codes
+## Etape d'exécution du fichier
 le fichier de code est appelé goto.py, pour l'exécution de fichier on exécute le code suivant dans un terminal :
 
 ```sh
