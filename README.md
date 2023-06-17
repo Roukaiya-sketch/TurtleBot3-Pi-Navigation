@@ -13,3 +13,10 @@ quaternion = {'r1' : 0.000, 'r2' : 0.000, 'r3' : 0.000, 'r4' : 1.000}
 ## Résulta
 Le turtlebot va bouge avec les chiffres de x et y
 
+
+## Etape d'exécution des codes
+le fichier de code est appelé goto.py, pour l'exécution de fichier on exécute le code suivant dans un terminal :
+
+```sh
+python3 goto.py
+```
